@@ -1,3 +1,3 @@
-# Linkedin Clone with HTML&CSS
+# LinkedIn Clone with HTML&CSS
 
-![alt text](images/screenshot.png "Linkedin Clone")
+![Image](images/screenshot.png "LinkedIn Clone")
